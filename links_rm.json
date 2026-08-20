@@ -1,752 +1,1156 @@
 ﻿[
     {
-        "Nome":  "172.16.6.18",
-        "Url":  "https://172.16.6.18:8051/wsupdate/",
-        "HostCompleto":  "172.16.6.18",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "ABENGENHARIA216415",
-        "Url":  "https://abengenharia216415.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "abengenharia216415.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "ABENGENHARIA216417",
-        "Url":  "https://abengenharia216417.rm.cloudtotvs.com.br:10857/wsupdate/",
-        "HostCompleto":  "abengenharia216417.rm.cloudtotvs.com.br",
-        "Porta":  "10857"
-    },
-    {
-        "Nome":  "ACADEMIASGREENLIFE211504",
-        "Url":  "https://academiasgreenlife211504.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "academiasgreenlife211504.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "ACADEMIASGREENLIFE211507",
-        "Url":  "https://academiasgreenlife211507.rm.cloudtotvs.com.br:10507/wsupdate/",
-        "HostCompleto":  "academiasgreenlife211507.rm.cloudtotvs.com.br",
-        "Porta":  "10507"
-    },
-    {
-        "Nome":  "ACELERADORES_AZURE.TOTVS.COM.BR",
-        "Url":  "https://aceleradores_azure.totvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "aceleradores_azure.totvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "AGRUPARCORPORATE198804",
-        "Url":  "https://agruparcorporate198804.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "agruparcorporate198804.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "AGRUPARCORPORATE198806",
-        "Url":  "https://agruparcorporate198806.rm.cloudtotvs.com.br:10807/wsupdate/",
-        "HostCompleto":  "agruparcorporate198806.rm.cloudtotvs.com.br",
-        "Porta":  "10807"
-    },
-    {
-        "Nome":  "AMORIMCOUTINHO174403",
-        "Url":  "https://amorimcoutinho174403.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "amorimcoutinho174403.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "AMORIMCOUTINHO174406",
-        "Url":  "https://amorimcoutinho174406.rm.cloudtotvs.com.br:1158/wsupdate/",
-        "HostCompleto":  "amorimcoutinho174406.rm.cloudtotvs.com.br",
-        "Porta":  "1158"
-    },
-    {
-        "Nome":  "AMPLVSTECNOLOGIA185449",
-        "Url":  "https://amplvstecnologia185449.rm.cloudtotvs.com.br:1506/wsupdate/",
-        "HostCompleto":  "amplvstecnologia185449.rm.cloudtotvs.com.br",
-        "Porta":  "1506"
-    },
-    {
-        "Nome":  "ANNARREMPREENDIMENTOS170125",
-        "Url":  "https://annarrempreendimentos170125.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "annarrempreendimentos170125.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "ASABRANCA179051",
-        "Url":  "https://asabranca179051.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "asabranca179051.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "ASABRANCA179054",
-        "Url":  "https://asabranca179054.rm.cloudtotvs.com.br:2206/wsupdate/",
-        "HostCompleto":  "asabranca179054.rm.cloudtotvs.com.br",
-        "Porta":  "2206"
-    },
-    {
-        "Nome":  "ASSOCIACAOCUIDAR191870",
-        "Url":  "https://associacaocuidar191870.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "associacaocuidar191870.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "ASSOCIACAOCUIDAR191872",
-        "Url":  "https://associacaocuidar191872.rm.cloudtotvs.com.br:10507/wsupdate/",
-        "HostCompleto":  "associacaocuidar191872.rm.cloudtotvs.com.br",
-        "Porta":  "10507"
-    },
-    {
-        "Nome":  "ASSOCIACAODE128186",
-        "Url":  "https://associacaode128186.rm.cloudtotvs.com.br:8059/wsupdate/",
-        "HostCompleto":  "associacaode128186.rm.cloudtotvs.com.br",
-        "Porta":  "8059"
-    },
-    {
-        "Nome":  "ASSOCIACAOPARA166037",
-        "Url":  "https://associacaopara166037.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "associacaopara166037.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "ASSOCIACAOPARA166039",
-        "Url":  "https://associacaopara166039.rm.cloudtotvs.com.br:1806/wsupdate/",
-        "HostCompleto":  "associacaopara166039.rm.cloudtotvs.com.br",
-        "Porta":  "1806"
-    },
-    {
-        "Nome":  "ASSOCIACAOQUIXADAENSE166486",
-        "Url":  "https://associacaoquixadaense166486.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "associacaoquixadaense166486.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "ASSOCIACAOQUIXADAENSE166488",
-        "Url":  "https://associacaoquixadaense166488.rm.cloudtotvs.com.br:1306/wsupdate/",
-        "HostCompleto":  "associacaoquixadaense166488.rm.cloudtotvs.com.br",
-        "Porta":  "1306"
-    },
-    {
-        "Nome":  "AUTOPECAS194911",
-        "Url":  "https://autopecas194911.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "autopecas194911.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "AUTOPECAS194913",
-        "Url":  "https://autopecas194913.rm.cloudtotvs.com.br:10407/wsupdate/",
-        "HostCompleto":  "autopecas194913.rm.cloudtotvs.com.br",
-        "Porta":  "10407"
-    },
-    {
-        "Nome":  "BARIAUTOMOVEIS218188",
-        "Url":  "https://bariautomoveis218188.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "bariautomoveis218188.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "BARIAUTOMOVEIS218190",
-        "Url":  "https://bariautomoveis218190.rm.cloudtotvs.com.br:11357/wsupdate/",
-        "HostCompleto":  "bariautomoveis218190.rm.cloudtotvs.com.br",
-        "Porta":  "11357"
-    },
-    {
-        "Nome":  "BBSLTDA149898",
-        "Url":  "https://bbsltda149898.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "bbsltda149898.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "BCPCONSTRUCOES174820",
-        "Url":  "https://bcpconstrucoes174820.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "bcpconstrucoes174820.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "BCPCONSTRUCOES174822",
-        "Url":  "https://bcpconstrucoes174822.rm.cloudtotvs.com.br:2008/wsupdate/",
-        "HostCompleto":  "bcpconstrucoes174822.rm.cloudtotvs.com.br",
-        "Porta":  "2008"
-    },
-    {
-        "Nome":  "BOAEMPREENDIMENTOS214958",
-        "Url":  "https://boaempreendimentos214958.rm.cloudtotvs.com.br:10157/wsupdate/",
-        "HostCompleto":  "boaempreendimentos214958.rm.cloudtotvs.com.br",
-        "Porta":  "10157"
-    },
-    {
-        "Nome":  "BOAEMPREENDIMENTOS215326",
-        "Url":  "https://boaempreendimentos215326.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "boaempreendimentos215326.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "BRISANETSERVICOS138386",
-        "Url":  "https://brisanetservicos138386.rm.cloudtotvs.com.br:8059/wsupdate/",
-        "HostCompleto":  "brisanetservicos138386.rm.cloudtotvs.com.br",
-        "Porta":  "8059"
-    },
-    {
-        "Nome":  "CACHACARIAMATUTA196409",
-        "Url":  "https://cachacariamatuta196409.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "cachacariamatuta196409.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "CACHACARIAMATUTA196411",
-        "Url":  "https://cachacariamatuta196411.rm.cloudtotvs.com.br:10007/wsupdate/",
-        "HostCompleto":  "cachacariamatuta196411.rm.cloudtotvs.com.br",
-        "Porta":  "10007"
-    },
-    {
-        "Nome":  "CAJUAPARAFRUTICULTURA200410",
-        "Url":  "https://cajuaparafruticultura200410.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "cajuaparafruticultura200410.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "CAJUAPARAFRUTICULTURA200412",
-        "Url":  "https://cajuaparafruticultura200412.rm.cloudtotvs.com.br:10207/wsupdate/",
-        "HostCompleto":  "cajuaparafruticultura200412.rm.cloudtotvs.com.br",
-        "Porta":  "10207"
-    },
-    {
-        "Nome":  "CALFIT207675",
-        "Url":  "https://calfit207675.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "calfit207675.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "CALFIT207678",
-        "Url":  "https://calfit207678.rm.cloudtotvs.com.br:10507/wsupdate/",
-        "HostCompleto":  "calfit207678.rm.cloudtotvs.com.br",
-        "Porta":  "10507"
-    },
-    {
-        "Nome":  "CARDOSODA205908",
-        "Url":  "https://cardosoda205908.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "cardosoda205908.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "CARDOSODA205910",
-        "Url":  "https://cardosoda205910.rm.cloudtotvs.com.br:10357/wsupdate/",
-        "HostCompleto":  "cardosoda205910.rm.cloudtotvs.com.br",
-        "Porta":  "10357"
-    },
-    {
-        "Nome":  "CENTRODE145343",
-        "Url":  "https://centrode145343.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "centrode145343.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "CENTROEDUCACIONAL138062",
-        "Url":  "https://centroeducacional138062.rm.cloudtotvs.com.br:8059/wsupdate/",
-        "HostCompleto":  "centroeducacional138062.rm.cloudtotvs.com.br",
-        "Porta":  "8059"
-    },
-    {
-        "Nome":  "COLEGIOBATISTA152799",
-        "Url":  "https://colegiobatista152799.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "colegiobatista152799.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "COLEGIOBATISTA174966",
-        "Url":  "https://colegiobatista174966.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "colegiobatista174966.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "COLEGIOLEROTE135928",
-        "Url":  "https://colegiolerote135928.rm.cloudtotvs.com.br:8059/wsupdate/",
-        "HostCompleto":  "colegiolerote135928.rm.cloudtotvs.com.br",
-        "Porta":  "8059"
-    },
-    {
-        "Nome":  "COLEGIOLEROTE135929",
-        "Url":  "https://colegiolerote135929.rm.cloudtotvs.com.br:8059/wsupdate/",
-        "HostCompleto":  "colegiolerote135929.rm.cloudtotvs.com.br",
-        "Porta":  "8059"
-    },
-    {
-        "Nome":  "COLINASENGENHARIA209820",
-        "Url":  "https://colinasengenharia209820.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "colinasengenharia209820.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "COLINASENGENHARIA209822",
-        "Url":  "https://colinasengenharia209822.rm.cloudtotvs.com.br:11007/wsupdate/",
-        "HostCompleto":  "colinasengenharia209822.rm.cloudtotvs.com.br",
-        "Porta":  "11007"
-    },
-    {
-        "Nome":  "COMERCIALFERRONORTE189526",
-        "Url":  "https://comercialferronorte189526.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "comercialferronorte189526.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "COMERCIALFERRONORTE189529",
-        "Url":  "https://comercialferronorte189529.rm.cloudtotvs.com.br:11107/wsupdate/",
-        "HostCompleto":  "comercialferronorte189529.rm.cloudtotvs.com.br",
-        "Porta":  "11107"
-    },
-    {
-        "Nome":  "COMPANHIAVALENCA197820",
-        "Url":  "https://companhiavalenca197820.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "companhiavalenca197820.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "CONSTRUTORAHIDROS183920",
-        "Url":  "https://construtorahidros183920.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "construtorahidros183920.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "CORTEZENGENHARIA177497",
-        "Url":  "https://cortezengenharia177497.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "cortezengenharia177497.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "CORTEZENGENHARIA177499",
-        "Url":  "https://cortezengenharia177499.rm.cloudtotvs.com.br:2208/wsupdate/",
-        "HostCompleto":  "cortezengenharia177499.rm.cloudtotvs.com.br",
-        "Porta":  "2208"
-    },
-    {
-        "Nome":  "CRISTOREI218000",
-        "Url":  "https://cristorei218000.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "cristorei218000.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "CRISTOREI218002",
-        "Url":  "https://cristorei218002.rm.cloudtotvs.com.br:11207/wsupdate/",
-        "HostCompleto":  "cristorei218002.rm.cloudtotvs.com.br",
-        "Porta":  "11207"
-    },
-    {
-        "Nome":  "CROSBYCR184931",
-        "Url":  "https://crosbycr184931.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "crosbycr184931.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "CROSBYCR184933",
-        "Url":  "https://crosbycr184933.rm.cloudtotvs.com.br:11207/wsupdate/",
-        "HostCompleto":  "crosbycr184933.rm.cloudtotvs.com.br",
-        "Porta":  "11207"
-    },
-    {
-        "Nome":  "DANSULDISTRIBUIDORA187283",
-        "Url":  "https://dansuldistribuidora187283.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "dansuldistribuidora187283.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "DANSULDISTRIBUIDORA187285",
-        "Url":  "https://dansuldistribuidora187285.rm.cloudtotvs.com.br:10607/wsupdate/",
-        "HostCompleto":  "dansuldistribuidora187285.rm.cloudtotvs.com.br",
-        "Porta":  "10607"
-    },
-    {
-        "Nome":  "DANSULLOGISTICA217826",
-        "Url":  "https://dansullogistica217826.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "dansullogistica217826.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "DANSULLOGISTICA217828",
-        "Url":  "https://dansullogistica217828.rm.cloudtotvs.com.br:10807/wsupdate/",
-        "HostCompleto":  "dansullogistica217828.rm.cloudtotvs.com.br",
-        "Porta":  "10807"
-    },
-    {
-        "Nome":  "EDUCACIONAL.TOTVS.COM.BR",
-        "Url":  "https://educacional.totvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "educacional.totvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "EMAPETERCEIRA216682",
-        "Url":  "https://emapeterceira216682.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "emapeterceira216682.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "EMAPETERCEIRA216684",
-        "Url":  "https://emapeterceira216684.rm.cloudtotvs.com.br:11007/wsupdate/",
-        "HostCompleto":  "emapeterceira216684.rm.cloudtotvs.com.br",
-        "Porta":  "11007"
-    },
-    {
-        "Nome":  "ENGEFORTCONSTRUTORA132182",
-        "Url":  "https://engefortconstrutora132182.rm.cloudtotvs.com.br:8059/wsupdate/",
-        "HostCompleto":  "engefortconstrutora132182.rm.cloudtotvs.com.br",
-        "Porta":  "8059"
-    },
-    {
-        "Nome":  "FACULDADECECAPE129504",
-        "Url":  "https://faculdadececape129504.rm.cloudtotvs.com.br:1453/wsupdate/",
-        "HostCompleto":  "faculdadececape129504.rm.cloudtotvs.com.br",
-        "Porta":  "1453"
-    },
-    {
-        "Nome":  "FACULDADECECAPE129506",
-        "Url":  "https://faculdadececape129506.rm.cloudtotvs.com.br:8059/wsupdate/",
-        "HostCompleto":  "faculdadececape129506.rm.cloudtotvs.com.br",
-        "Porta":  "8059"
-    },
-    {
-        "Nome":  "GEINEH202951",
-        "Url":  "https://geineh202951.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "geineh202951.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "GENNESISENGENHARIA136709",
-        "Url":  "https://gennesisengenharia136709.rm.cloudtotvs.com.br:8059/wsupdate/",
-        "HostCompleto":  "gennesisengenharia136709.rm.cloudtotvs.com.br",
-        "Porta":  "8059"
-    },
-    {
-        "Nome":  "GENNESISENGENHARIA136710",
-        "Url":  "https://gennesisengenharia136710.rm.cloudtotvs.com.br:8059/wsupdate/",
-        "HostCompleto":  "gennesisengenharia136710.rm.cloudtotvs.com.br",
-        "Porta":  "8059"
-    },
-    {
-        "Nome":  "GNEMPREENDIMENTOS160230",
-        "Url":  "https://gnempreendimentos160230.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "gnempreendimentos160230.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "GNEMPREENDIMENTOS160232",
-        "Url":  "https://gnempreendimentos160232.rm.cloudtotvs.com.br:1406/wsupdate/",
-        "HostCompleto":  "gnempreendimentos160232.rm.cloudtotvs.com.br",
-        "Porta":  "1406"
-    },
-    {
-        "Nome":  "HR199960",
-        "Url":  "https://hr199960.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "hr199960.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "ICOFORT139708",
-        "Url":  "https://icofort139708.rm.cloudtotvs.com.br:1401/wsupdate/",
-        "HostCompleto":  "icofort139708.rm.cloudtotvs.com.br",
-        "Porta":  "1401"
-    },
-    {
-        "Nome":  "ICOFORT139708",
-        "Url":  "https://icofort139708.rm.cloudtotvs.com.br:1403/wsupdate/",
-        "HostCompleto":  "icofort139708.rm.cloudtotvs.com.br",
-        "Porta":  "1403"
-    },
-    {
-        "Nome":  "IDIBRAPARTICIPACOES152581",
-        "Url":  "https://idibraparticipacoes152581.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "idibraparticipacoes152581.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "IDIBRAPARTICIPACOES152583",
-        "Url":  "https://idibraparticipacoes152583.rm.cloudtotvs.com.br:2353/wsupdate/",
-        "HostCompleto":  "idibraparticipacoes152583.rm.cloudtotvs.com.br",
-        "Porta":  "2353"
-    },
-    {
-        "Nome":  "INDUSTRIAE175644",
-        "Url":  "https://industriae175644.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "industriae175644.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "INDUSTRIAE175646",
-        "Url":  "https://industriae175646.rm.cloudtotvs.com.br:1208/wsupdate/",
-        "HostCompleto":  "industriae175646.rm.cloudtotvs.com.br",
-        "Porta":  "1208"
-    },
-    {
-        "Nome":  "INSTITUTOBRASILEIRO178267",
-        "Url":  "https://institutobrasileiro178267.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "institutobrasileiro178267.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "INSTITUTODOM134398",
-        "Url":  "https://institutodom134398.rm.cloudtotvs.com.br:8059/wsupdate/",
-        "HostCompleto":  "institutodom134398.rm.cloudtotvs.com.br",
-        "Porta":  "8059"
-    },
-    {
-        "Nome":  "LUZBELA210718",
-        "Url":  "https://luzbela210718.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "luzbela210718.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "LUZBELA210720",
-        "Url":  "https://luzbela210720.rm.cloudtotvs.com.br:11407/wsupdate/",
-        "HostCompleto":  "luzbela210720.rm.cloudtotvs.com.br",
-        "Porta":  "11407"
-    },
-    {
-        "Nome":  "MAGNESIUMDO193888",
-        "Url":  "https://magnesiumdo193888.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "magnesiumdo193888.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "MAGNESIUMDO193892",
-        "Url":  "https://magnesiumdo193892.rm.cloudtotvs.com.br:10007/wsupdate/",
-        "HostCompleto":  "magnesiumdo193892.rm.cloudtotvs.com.br",
-        "Porta":  "10007"
-    },
-    {
-        "Nome":  "MARIACARMEN137176",
-        "Url":  "https://mariacarmen137176.rm.cloudtotvs.com.br:8059/wsupdate/",
-        "HostCompleto":  "mariacarmen137176.rm.cloudtotvs.com.br",
-        "Porta":  "8059"
-    },
-    {
-        "Nome":  "MATRICONSULTING207698",
-        "Url":  "https://matriconsulting207698.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "matriconsulting207698.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "MATRICONSULTING207700",
-        "Url":  "https://matriconsulting207700.rm.cloudtotvs.com.br:10657/wsupdate/",
-        "HostCompleto":  "matriconsulting207700.rm.cloudtotvs.com.br",
-        "Porta":  "10657"
-    },
-    {
-        "Nome":  "MOBSERVICOS116373",
-        "Url":  "https://mobservicos116373.rm.cloudtotvs.com.br:8059/wsupdate/",
-        "HostCompleto":  "mobservicos116373.rm.cloudtotvs.com.br",
-        "Porta":  "8059"
-    },
-    {
-        "Nome":  "MODERNAENGENHARIA178770",
-        "Url":  "https://modernaengenharia178770.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "modernaengenharia178770.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "MODERNAENGENHARIA178772",
-        "Url":  "https://modernaengenharia178772.rm.cloudtotvs.com.br:1456/wsupdate/",
-        "HostCompleto":  "modernaengenharia178772.rm.cloudtotvs.com.br",
-        "Porta":  "1456"
-    },
-    {
-        "Nome":  "NAVARROHOLDING204780",
-        "Url":  "https://navarroholding204780.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "navarroholding204780.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "NAVARROHOLDING204781",
-        "Url":  "https://navarroholding204781.rm.cloudtotvs.com.br:11457/wsupdate/",
-        "HostCompleto":  "navarroholding204781.rm.cloudtotvs.com.br",
-        "Porta":  "11457"
-    },
-    {
-        "Nome":  "NOSSOATACAREJO184464",
-        "Url":  "https://nossoatacarejo184464.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "nossoatacarejo184464.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "NOSSOATACAREJO184466",
-        "Url":  "https://nossoatacarejo184466.rm.cloudtotvs.com.br:10257/wsupdate/",
-        "HostCompleto":  "nossoatacarejo184466.rm.cloudtotvs.com.br",
-        "Porta":  "10257"
-    },
-    {
-        "Nome":  "NUTRIPORTCOMERCIAL194695",
-        "Url":  "https://nutriportcomercial194695.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "nutriportcomercial194695.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "NUTRIPORTCOMERCIAL194697",
-        "Url":  "https://nutriportcomercial194697.rm.cloudtotvs.com.br:11207/wsupdate/",
-        "HostCompleto":  "nutriportcomercial194697.rm.cloudtotvs.com.br",
-        "Porta":  "11207"
-    },
-    {
-        "Nome":  "PDHBINDUSTRIA207986",
-        "Url":  "https://pdhbindustria207986.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "pdhbindustria207986.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "PDHBINDUSTRIA207988",
-        "Url":  "https://pdhbindustria207988.rm.cloudtotvs.com.br:10157/wsupdate/",
-        "HostCompleto":  "pdhbindustria207988.rm.cloudtotvs.com.br",
-        "Porta":  "10157"
-    },
-    {
-        "Nome":  "PEREIRAFABRICA192028",
-        "Url":  "https://pereirafabrica192028.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "pereirafabrica192028.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "PEREIRAFABRICA192030",
-        "Url":  "https://pereirafabrica192030.rm.cloudtotvs.com.br:10657/wsupdate/",
-        "HostCompleto":  "pereirafabrica192030.rm.cloudtotvs.com.br",
-        "Porta":  "10657"
-    },
-    {
-        "Nome":  "PHDSOLUCOES189466",
-        "Url":  "https://phdsolucoes189466.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "phdsolucoes189466.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "PHDSOLUCOES189468",
-        "Url":  "https://phdsolucoes189468.rm.cloudtotvs.com.br:10757/wsupdate/",
-        "HostCompleto":  "phdsolucoes189468.rm.cloudtotvs.com.br",
-        "Porta":  "10757"
-    },
-    {
-        "Nome":  "POTENCIALSEGURANCA134903",
-        "Url":  "https://potencialseguranca134903.rm.cloudtotvs.com.br:8059/wsupdate/",
-        "HostCompleto":  "potencialseguranca134903.rm.cloudtotvs.com.br",
-        "Porta":  "8059"
-    },
-    {
-        "Nome":  "PY13PARTICIPACOES208781",
-        "Url":  "https://py13participacoes208781.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "py13participacoes208781.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "QUADRANBRASIL173504",
-        "Url":  "https://quadranbrasil173504.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "quadranbrasil173504.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "RAVENADISTRIBUIDORA208962",
-        "Url":  "https://ravenadistribuidora208962.rm.cloudtotvs.com.br:11107/wsupdate/",
-        "HostCompleto":  "ravenadistribuidora208962.rm.cloudtotvs.com.br",
-        "Porta":  "11107"
-    },
-    {
-        "Nome":  "REGINAALIMENTOS178725",
-        "Url":  "https://reginaalimentos178725.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "reginaalimentos178725.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "RMAPP.MOBIT.COM.BR",
-        "Url":  "https://rmapp.mobit.com.br:8051/wsupdate/",
-        "HostCompleto":  "rmapp.mobit.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "SALESBURGOS190271",
-        "Url":  "https://salesburgos190271.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "salesburgos190271.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "SALESBURGOS190273",
-        "Url":  "https://salesburgos190273.rm.cloudtotvs.com.br:10357/wsupdate/",
-        "HostCompleto":  "salesburgos190273.rm.cloudtotvs.com.br",
-        "Porta":  "10357"
-    },
-    {
-        "Nome":  "SIMMSOLUCOES158961",
-        "Url":  "https://simmsolucoes158961.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "simmsolucoes158961.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "SIMMSOLUCOES158963",
-        "Url":  "https://simmsolucoes158963.rm.cloudtotvs.com.br:1256/wsupdate/",
-        "HostCompleto":  "simmsolucoes158963.rm.cloudtotvs.com.br",
-        "Porta":  "1256"
-    },
-    {
-        "Nome":  "SLADMINISTRACAOE170614",
-        "Url":  "https://sladministracaoe170614.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "sladministracaoe170614.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "SPOTECNOLOGIA217723",
-        "Url":  "https://spotecnologia217723.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "spotecnologia217723.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "SPOTECNOLOGIA217725",
-        "Url":  "https://spotecnologia217725.rm.cloudtotvs.com.br:11007/wsupdate/",
-        "HostCompleto":  "spotecnologia217725.rm.cloudtotvs.com.br",
-        "Porta":  "11007"
-    },
-    {
-        "Nome":  "SUPERMERCADOROSSI214131",
-        "Url":  "https://supermercadorossi214131.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "supermercadorossi214131.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "SUPERMERCADOROSSI214132",
-        "Url":  "https://supermercadorossi214132.rm.cloudtotvs.com.br:11107/wsupdate/",
-        "HostCompleto":  "supermercadorossi214132.rm.cloudtotvs.com.br",
-        "Porta":  "11107"
-    },
-    {
-        "Nome":  "TELEVISAOMIRANTE204133",
-        "Url":  "https://televisaomirante204133.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "televisaomirante204133.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "TELEVISAOMIRANTE204135",
-        "Url":  "https://televisaomirante204135.rm.cloudtotvs.com.br:11007/wsupdate/",
-        "HostCompleto":  "televisaomirante204135.rm.cloudtotvs.com.br",
-        "Porta":  "11007"
-    },
-    {
-        "Nome":  "TIJUCAALIMENTOS192046",
-        "Url":  "https://tijucaalimentos192046.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "tijucaalimentos192046.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "TVINTELIGENTE176142",
-        "Url":  "https://tvinteligente176142.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "tvinteligente176142.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
-    {
-        "Nome":  "TVINTELIGENTE176144",
-        "Url":  "https://tvinteligente176144.rm.cloudtotvs.com.br:1708/wsupdate/",
-        "HostCompleto":  "tvinteligente176144.rm.cloudtotvs.com.br",
-        "Porta":  "1708"
-    },
-    {
-        "Nome":  "TYLSERVICOS208573",
-        "Url":  "https://tylservicos208573.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "tylservicos208573.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
-    },
+        "Cliente":  "172.16.6.18",
+        "Infra":  "ON-PREMISSE",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "http://172.16.6.18:8051/wsupdate/",
+                          "HostOriginal":  "172.16.6.18"
+                      }
+    },
+    {
+        "Cliente":  "ABENGENHARIA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://abengenharia216415.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "abengenharia216415.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10857",
+                              "Url":  "https://abengenharia216417.rm.cloudtotvs.com.br:10857/wsupdate/",
+                              "HostOriginal":  "abengenharia216417.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "ACADEMIASGREENLIFE",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://academiasgreenlife211504.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "academiasgreenlife211504.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10507",
+                              "Url":  "https://academiasgreenlife211507.rm.cloudtotvs.com.br:10507/wsupdate/",
+                              "HostOriginal":  "academiasgreenlife211507.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "ACELERADORES_AZURE",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://aceleradores_azure.totvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "aceleradores_azure.totvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "AGRUPARCORPORATE",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://agruparcorporate198804.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "agruparcorporate198804.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10807",
+                              "Url":  "https://agruparcorporate198806.rm.cloudtotvs.com.br:10807/wsupdate/",
+                              "HostOriginal":  "agruparcorporate198806.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "AMORIMCOUTINHO",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://amorimcoutinho174403.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "amorimcoutinho174403.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "1158",
+                              "Url":  "https://amorimcoutinho174406.rm.cloudtotvs.com.br:1158/wsupdate/",
+                              "HostOriginal":  "amorimcoutinho174406.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "AMPLVSTECNOLOGIA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "DEV",
+                          "Porta":  "1506",
+                          "Url":  "https://amplvstecnologia185449.rm.cloudtotvs.com.br:1506/wsupdate/",
+                          "HostOriginal":  "amplvstecnologia185449.rm.cloudtotvs.com.br"
+                      }
+    },
     {
-        "Nome":  "UNISULMAUNIDADE161865",
-        "Url":  "https://unisulmaunidade161865.rm.cloudtotvs.com.br:8051/wsupdate/",
-        "HostCompleto":  "unisulmaunidade161865.rm.cloudtotvs.com.br",
-        "Porta":  "8051"
+        "Cliente":  "ANNARREMPREENDIMENTOS",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://annarrempreendimentos170125.rm.cloudtotvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "annarrempreendimentos170125.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "ASABRANCA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://asabranca179051.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "asabranca179051.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "2206",
+                              "Url":  "https://asabranca179054.rm.cloudtotvs.com.br:2206/wsupdate/",
+                              "HostOriginal":  "asabranca179054.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "ASSOCIACAOCUIDAR",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://associacaocuidar191870.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "associacaocuidar191870.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10507",
+                              "Url":  "https://associacaocuidar191872.rm.cloudtotvs.com.br:10507/wsupdate/",
+                              "HostOriginal":  "associacaocuidar191872.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "ASSOCIACAODE",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8059",
+                          "Url":  "https://associacaode128186.rm.cloudtotvs.com.br:8059/wsupdate/",
+                          "HostOriginal":  "associacaode128186.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "ASSOCIACAOPARA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://associacaopara166037.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "associacaopara166037.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "1806",
+                              "Url":  "https://associacaopara166039.rm.cloudtotvs.com.br:1806/wsupdate/",
+                              "HostOriginal":  "associacaopara166039.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "ASSOCIACAOQUIXADAENSE",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://associacaoquixadaense166486.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "associacaoquixadaense166486.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "1306",
+                              "Url":  "https://associacaoquixadaense166488.rm.cloudtotvs.com.br:1306/wsupdate/",
+                              "HostOriginal":  "associacaoquixadaense166488.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "AUTOPECAS",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://autopecas194911.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "autopecas194911.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10407",
+                              "Url":  "https://autopecas194913.rm.cloudtotvs.com.br:10407/wsupdate/",
+                              "HostOriginal":  "autopecas194913.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "BARIAUTOMOVEIS",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://bariautomoveis218188.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "bariautomoveis218188.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "11357",
+                              "Url":  "https://bariautomoveis218190.rm.cloudtotvs.com.br:11357/wsupdate/",
+                              "HostOriginal":  "bariautomoveis218190.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "BBSLTDA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://bbsltda149898.rm.cloudtotvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "bbsltda149898.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "BCPCONSTRUCOES",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://bcpconstrucoes174820.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "bcpconstrucoes174820.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "2008",
+                              "Url":  "https://bcpconstrucoes174822.rm.cloudtotvs.com.br:2008/wsupdate/",
+                              "HostOriginal":  "bcpconstrucoes174822.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "BOAEMPREENDIMENTOS",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://boaempreendimentos215326.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "boaempreendimentos215326.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10157",
+                              "Url":  "https://boaempreendimentos214958.rm.cloudtotvs.com.br:10157/wsupdate/",
+                              "HostOriginal":  "boaempreendimentos214958.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "BRISANETSERVICOS",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8059",
+                          "Url":  "https://brisanetservicos138386.rm.cloudtotvs.com.br:8059/wsupdate/",
+                          "HostOriginal":  "brisanetservicos138386.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "CACHACARIAMATUTA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://cachacariamatuta196409.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "cachacariamatuta196409.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10007",
+                              "Url":  "https://cachacariamatuta196411.rm.cloudtotvs.com.br:10007/wsupdate/",
+                              "HostOriginal":  "cachacariamatuta196411.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "CAJUAPARAFRUTICULTURA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://cajuaparafruticultura200410.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "cajuaparafruticultura200410.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10207",
+                              "Url":  "https://cajuaparafruticultura200412.rm.cloudtotvs.com.br:10207/wsupdate/",
+                              "HostOriginal":  "cajuaparafruticultura200412.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "CALFIT",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://calfit207675.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "calfit207675.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10507",
+                              "Url":  "https://calfit207678.rm.cloudtotvs.com.br:10507/wsupdate/",
+                              "HostOriginal":  "calfit207678.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "CARDOSODA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://cardosoda205908.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "cardosoda205908.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10357",
+                              "Url":  "https://cardosoda205910.rm.cloudtotvs.com.br:10357/wsupdate/",
+                              "HostOriginal":  "cardosoda205910.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "CENTRODE",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://centrode145343.rm.cloudtotvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "centrode145343.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "CENTROEDUCACIONAL",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8059",
+                          "Url":  "https://centroeducacional138062.rm.cloudtotvs.com.br:8059/wsupdate/",
+                          "HostOriginal":  "centroeducacional138062.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "COLEGIOBATISTA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://colegiobatista174966.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "colegiobatista174966.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://colegiobatista152799.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "colegiobatista152799.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "COLEGIOLEROTE",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8059",
+                              "Url":  "https://colegiolerote135929.rm.cloudtotvs.com.br:8059/wsupdate/",
+                              "HostOriginal":  "colegiolerote135929.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8059",
+                              "Url":  "https://colegiolerote135928.rm.cloudtotvs.com.br:8059/wsupdate/",
+                              "HostOriginal":  "colegiolerote135928.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "COLINASENGENHARIA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://colinasengenharia209820.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "colinasengenharia209820.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "11007",
+                              "Url":  "https://colinasengenharia209822.rm.cloudtotvs.com.br:11007/wsupdate/",
+                              "HostOriginal":  "colinasengenharia209822.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "COMERCIALFERRONORTE",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://comercialferronorte189526.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "comercialferronorte189526.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "11107",
+                              "Url":  "https://comercialferronorte189529.rm.cloudtotvs.com.br:11107/wsupdate/",
+                              "HostOriginal":  "comercialferronorte189529.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "COMPANHIAVALENCA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://companhiavalenca197820.rm.cloudtotvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "companhiavalenca197820.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "CONSTRUTORAHIDROS",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://construtorahidros183920.rm.cloudtotvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "construtorahidros183920.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "CORTEZENGENHARIA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://cortezengenharia177497.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "cortezengenharia177497.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "2208",
+                              "Url":  "https://cortezengenharia177499.rm.cloudtotvs.com.br:2208/wsupdate/",
+                              "HostOriginal":  "cortezengenharia177499.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "CRISTOREI",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://cristorei218000.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "cristorei218000.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "11207",
+                              "Url":  "https://cristorei218002.rm.cloudtotvs.com.br:11207/wsupdate/",
+                              "HostOriginal":  "cristorei218002.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "CROSBYCR",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://crosbycr184931.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "crosbycr184931.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "11207",
+                              "Url":  "https://crosbycr184933.rm.cloudtotvs.com.br:11207/wsupdate/",
+                              "HostOriginal":  "crosbycr184933.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "DANSULDISTRIBUIDORA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://dansuldistribuidora187283.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "dansuldistribuidora187283.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10607",
+                              "Url":  "https://dansuldistribuidora187285.rm.cloudtotvs.com.br:10607/wsupdate/",
+                              "HostOriginal":  "dansuldistribuidora187285.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "DANSULLOGISTICA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://dansullogistica217826.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "dansullogistica217826.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10807",
+                              "Url":  "https://dansullogistica217828.rm.cloudtotvs.com.br:10807/wsupdate/",
+                              "HostOriginal":  "dansullogistica217828.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "EDUCACIONAL",
+        "Infra":  "ON-PREMISSE",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "http://educacional.totvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "educacional.totvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "EMAPETERCEIRA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://emapeterceira216682.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "emapeterceira216682.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "11007",
+                              "Url":  "https://emapeterceira216684.rm.cloudtotvs.com.br:11007/wsupdate/",
+                              "HostOriginal":  "emapeterceira216684.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "ENGEFORTCONSTRUTORA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8059",
+                          "Url":  "https://engefortconstrutora132182.rm.cloudtotvs.com.br:8059/wsupdate/",
+                          "HostOriginal":  "engefortconstrutora132182.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "FACULDADECECAPE",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8059",
+                              "Url":  "https://faculdadececape129506.rm.cloudtotvs.com.br:8059/wsupdate/",
+                              "HostOriginal":  "faculdadececape129506.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "1453",
+                              "Url":  "https://faculdadececape129504.rm.cloudtotvs.com.br:1453/wsupdate/",
+                              "HostOriginal":  "faculdadececape129504.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "GEINEH",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://geineh202951.rm.cloudtotvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "geineh202951.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "GENNESISENGENHARIA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8059",
+                              "Url":  "https://gennesisengenharia136710.rm.cloudtotvs.com.br:8059/wsupdate/",
+                              "HostOriginal":  "gennesisengenharia136710.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8059",
+                              "Url":  "https://gennesisengenharia136709.rm.cloudtotvs.com.br:8059/wsupdate/",
+                              "HostOriginal":  "gennesisengenharia136709.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "GNEMPREENDIMENTOS",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://gnempreendimentos160230.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "gnempreendimentos160230.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "1406",
+                              "Url":  "https://gnempreendimentos160232.rm.cloudtotvs.com.br:1406/wsupdate/",
+                              "HostOriginal":  "gnempreendimentos160232.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "HR",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://hr199960.rm.cloudtotvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "hr199960.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "ICOFORT",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "1403",
+                              "Url":  "https://icofort139708.rm.cloudtotvs.com.br:1403/wsupdate/",
+                              "HostOriginal":  "icofort139708.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "1401",
+                              "Url":  "https://icofort139708.rm.cloudtotvs.com.br:1401/wsupdate/",
+                              "HostOriginal":  "icofort139708.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "IDIBRAPARTICIPACOES",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://idibraparticipacoes152581.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "idibraparticipacoes152581.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "2353",
+                              "Url":  "https://idibraparticipacoes152583.rm.cloudtotvs.com.br:2353/wsupdate/",
+                              "HostOriginal":  "idibraparticipacoes152583.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "INDUSTRIAE",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://industriae175644.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "industriae175644.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "1208",
+                              "Url":  "https://industriae175646.rm.cloudtotvs.com.br:1208/wsupdate/",
+                              "HostOriginal":  "industriae175646.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "INSTITUTOBRASILEIRO",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://institutobrasileiro178267.rm.cloudtotvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "institutobrasileiro178267.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "INSTITUTODOM",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8059",
+                          "Url":  "https://institutodom134398.rm.cloudtotvs.com.br:8059/wsupdate/",
+                          "HostOriginal":  "institutodom134398.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "LUZBELA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://luzbela210718.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "luzbela210718.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "11407",
+                              "Url":  "https://luzbela210720.rm.cloudtotvs.com.br:11407/wsupdate/",
+                              "HostOriginal":  "luzbela210720.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "MAGNESIUMDO",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://magnesiumdo193888.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "magnesiumdo193888.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10007",
+                              "Url":  "https://magnesiumdo193892.rm.cloudtotvs.com.br:10007/wsupdate/",
+                              "HostOriginal":  "magnesiumdo193892.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "MARIACARMEN",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8059",
+                          "Url":  "https://mariacarmen137176.rm.cloudtotvs.com.br:8059/wsupdate/",
+                          "HostOriginal":  "mariacarmen137176.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "MATRICONSULTING",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://matriconsulting207698.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "matriconsulting207698.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10657",
+                              "Url":  "https://matriconsulting207700.rm.cloudtotvs.com.br:10657/wsupdate/",
+                              "HostOriginal":  "matriconsulting207700.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "MOBSERVICOS",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8059",
+                          "Url":  "https://mobservicos116373.rm.cloudtotvs.com.br:8059/wsupdate/",
+                          "HostOriginal":  "mobservicos116373.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "MODERNAENGENHARIA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://modernaengenharia178770.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "modernaengenharia178770.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "1456",
+                              "Url":  "https://modernaengenharia178772.rm.cloudtotvs.com.br:1456/wsupdate/",
+                              "HostOriginal":  "modernaengenharia178772.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "NAVARROHOLDING",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://navarroholding204780.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "navarroholding204780.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "11457",
+                              "Url":  "https://navarroholding204781.rm.cloudtotvs.com.br:11457/wsupdate/",
+                              "HostOriginal":  "navarroholding204781.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "NOSSOATACAREJO",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://nossoatacarejo184464.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "nossoatacarejo184464.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10257",
+                              "Url":  "https://nossoatacarejo184466.rm.cloudtotvs.com.br:10257/wsupdate/",
+                              "HostOriginal":  "nossoatacarejo184466.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "NUTRIPORTCOMERCIAL",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://nutriportcomercial194695.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "nutriportcomercial194695.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "11207",
+                              "Url":  "https://nutriportcomercial194697.rm.cloudtotvs.com.br:11207/wsupdate/",
+                              "HostOriginal":  "nutriportcomercial194697.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "PDHBINDUSTRIA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://pdhbindustria207986.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "pdhbindustria207986.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10157",
+                              "Url":  "https://pdhbindustria207988.rm.cloudtotvs.com.br:10157/wsupdate/",
+                              "HostOriginal":  "pdhbindustria207988.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "PEREIRAFABRICA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://pereirafabrica192028.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "pereirafabrica192028.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10657",
+                              "Url":  "https://pereirafabrica192030.rm.cloudtotvs.com.br:10657/wsupdate/",
+                              "HostOriginal":  "pereirafabrica192030.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "PHDSOLUCOES",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://phdsolucoes189466.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "phdsolucoes189466.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10757",
+                              "Url":  "https://phdsolucoes189468.rm.cloudtotvs.com.br:10757/wsupdate/",
+                              "HostOriginal":  "phdsolucoes189468.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "POTENCIALSEGURANCA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8059",
+                          "Url":  "https://potencialseguranca134903.rm.cloudtotvs.com.br:8059/wsupdate/",
+                          "HostOriginal":  "potencialseguranca134903.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "PY13PARTICIPACOES",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://py13participacoes208781.rm.cloudtotvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "py13participacoes208781.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "QUADRANBRASIL",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://quadranbrasil173504.rm.cloudtotvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "quadranbrasil173504.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "RAVENADISTRIBUIDORA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "DEV",
+                          "Porta":  "11107",
+                          "Url":  "https://ravenadistribuidora208962.rm.cloudtotvs.com.br:11107/wsupdate/",
+                          "HostOriginal":  "ravenadistribuidora208962.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "REGINAALIMENTOS",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://reginaalimentos178725.rm.cloudtotvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "reginaalimentos178725.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "RMAPP.MOBIT.COM.BR",
+        "Infra":  "ON-PREMISSE",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "http://rmapp.mobit.com.br:8051/wsupdate/",
+                          "HostOriginal":  "rmapp.mobit.com.br"
+                      }
+    },
+    {
+        "Cliente":  "SALESBURGOS",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://salesburgos190271.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "salesburgos190271.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "10357",
+                              "Url":  "https://salesburgos190273.rm.cloudtotvs.com.br:10357/wsupdate/",
+                              "HostOriginal":  "salesburgos190273.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "SIMMSOLUCOES",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://simmsolucoes158961.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "simmsolucoes158961.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "1256",
+                              "Url":  "https://simmsolucoes158963.rm.cloudtotvs.com.br:1256/wsupdate/",
+                              "HostOriginal":  "simmsolucoes158963.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "SLADMINISTRACAOE",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://sladministracaoe170614.rm.cloudtotvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "sladministracaoe170614.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "SPOTECNOLOGIA",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://spotecnologia217723.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "spotecnologia217723.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "11007",
+                              "Url":  "https://spotecnologia217725.rm.cloudtotvs.com.br:11007/wsupdate/",
+                              "HostOriginal":  "spotecnologia217725.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "SUPERMERCADOROSSI",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://supermercadorossi214131.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "supermercadorossi214131.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "11107",
+                              "Url":  "https://supermercadorossi214132.rm.cloudtotvs.com.br:11107/wsupdate/",
+                              "HostOriginal":  "supermercadorossi214132.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "TELEVISAOMIRANTE",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://televisaomirante204133.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "televisaomirante204133.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "11007",
+                              "Url":  "https://televisaomirante204135.rm.cloudtotvs.com.br:11007/wsupdate/",
+                              "HostOriginal":  "televisaomirante204135.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "TIJUCAALIMENTOS",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://tijucaalimentos192046.rm.cloudtotvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "tijucaalimentos192046.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "TVINTELIGENTE",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  [
+                          {
+                              "Tipo":  "PRD",
+                              "Porta":  "8051",
+                              "Url":  "https://tvinteligente176142.rm.cloudtotvs.com.br:8051/wsupdate/",
+                              "HostOriginal":  "tvinteligente176142.rm.cloudtotvs.com.br"
+                          },
+                          {
+                              "Tipo":  "DEV",
+                              "Porta":  "1708",
+                              "Url":  "https://tvinteligente176144.rm.cloudtotvs.com.br:1708/wsupdate/",
+                              "HostOriginal":  "tvinteligente176144.rm.cloudtotvs.com.br"
+                          }
+                      ]
+    },
+    {
+        "Cliente":  "TYLSERVICOS",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://tylservicos208573.rm.cloudtotvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "tylservicos208573.rm.cloudtotvs.com.br"
+                      }
+    },
+    {
+        "Cliente":  "UNISULMAUNIDADE",
+        "Infra":  "T-CLOUD",
+        "Ambientes":  {
+                          "Tipo":  "PRD",
+                          "Porta":  "8051",
+                          "Url":  "https://unisulmaunidade161865.rm.cloudtotvs.com.br:8051/wsupdate/",
+                          "HostOriginal":  "unisulmaunidade161865.rm.cloudtotvs.com.br"
+                      }
     }
 ]
