@@ -3,40 +3,212 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RM Hub - Instaladores WSUpdate</title>
+    <title>RM Hub | Instaladores</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f6f8; color: #333; margin: 0; padding: 40px; }
-        h1 { color: #0b5ed7; border-bottom: 2px solid #ccc; padding-bottom: 10px; }
-        .grid-botoes { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px; margin-top: 30px; }
-        .botao-download { background-color: #ffffff; color: #0b5ed7; padding: 20px; text-align: center; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border: 1px solid #e1e4e8; display: flex; align-items: center; justify-content: center; }
-        .botao-download:hover { background-color: #0b5ed7; color: #ffffff; transform: translateY(-2px); box-shadow: 0 6px 12px rgba(11, 94, 215, 0.2); }
+        /* Estilo Minimalista e Moderno */
+        :root {
+            --bg-color: #fafafa;
+            --text-main: #1f2937;
+            --text-muted: #6b7280;
+            --border-color: #e5e7eb;
+            --card-bg: #ffffff;
+            --accent: #3b82f6;
+            --accent-hover: #2563eb;
+        }
+
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+            background-color: var(--bg-color); 
+            color: var(--text-main); 
+            margin: 0; 
+            padding: 0;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 50px 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .header h1 { 
+            font-size: 24px; 
+            font-weight: 600; 
+            margin: 0 0 10px 0;
+            color: var(--text-main);
+            letter-spacing: -0.5px;
+        }
+
+        .header p {
+            font-size: 14px;
+            color: var(--text-muted);
+            margin: 0;
+        }
+
+        /* Barra de Pesquisa */
+        .search-container {
+            max-width: 400px;
+            margin: 0 auto 40px auto;
+            position: relative;
+        }
+
+        #searchInput {
+            width: 100%;
+            padding: 12px 16px 12px 40px;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            font-size: 14px;
+            background-color: var(--card-bg);
+            box-sizing: border-box;
+            outline: none;
+            transition: all 0.2s ease;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+        }
+
+        #searchInput:focus {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 16px;
+            height: 16px;
+            fill: var(--text-muted);
+        }
+
+        /* Grid Minimalista */
+        .grid-botoes {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            gap: 16px;
+        }
+
+        .card-link {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 16px;
+            text-decoration: none;
+            display: flex;
+            flex-direction: column;
+            transition: all 0.2s ease;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.02);
+        }
+
+        .card-link:hover {
+            border-color: #d1d5db;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+        }
+
+        .card-title {
+            font-weight: 500;
+            font-size: 14px;
+            color: var(--text-main);
+            margin-bottom: 4px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .card-subtitle {
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+        
+        .no-results {
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: 40px;
+            color: var(--text-muted);
+            font-size: 14px;
+            display: none;
+        }
     </style>
 </head>
 <body>
-    <h1>RM Hub - Central de Atualizações</h1>
-    <p>Selecione o ambiente desejado para acessar o instalador WSUpdate correspondente:</p>
-    
-    <div id="container-botoes" class="grid-botoes"></div>
+
+    <div class="container">
+        <div class="header">
+            <h1>RM Hub</h1>
+            <p>Selecione o ambiente para baixar o instalador WSUpdate</p>
+        </div>
+        
+        <div class="search-container">
+            <svg class="search-icon" viewBox="0 0 24 24">
+                <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+            </svg>
+            <input type="text" id="searchInput" placeholder="Buscar cliente por nome..." autocomplete="off">
+        </div>
+
+        <div id="container-botoes" class="grid-botoes">
+            <!-- Os cards serão injetados aqui -->
+        </div>
+        <div id="noResults" class="no-results">Nenhum cliente encontrado.</div>
+    </div>
 
     <script>
+        let todosLinks = [];
+
+        // Busca o JSON
         fetch('links_rm.json')
             .then(response => response.json())
             .then(dados => {
-                const container = document.getElementById('container-botoes');
-                dados.forEach(item => {
-                    const link = document.createElement('a');
-                    link.href = item.Url;
-                    link.className = 'botao-download';
-                    link.target = '_blank';
-                    link.textContent = item.Nome;
-                    link.title = `Host: ${item.HostCompleto} | Porta: ${item.Porta}`;
-                    container.appendChild(link);
-                });
+                todosLinks = dados;
+                renderizarCards(todosLinks);
             })
             .catch(error => {
                 console.error('Erro:', error);
-                document.getElementById('container-botoes').innerHTML = '<p style="color:red;">Erro ao carregar os links.</p>';
+                document.getElementById('container-botoes').innerHTML = '<p style="color:red; text-align:center;">Erro ao carregar a lista de instaladores.</p>';
             });
+
+        // Função para desenhar os cards na tela
+        function renderizarCards(lista) {
+            const container = document.getElementById('container-botoes');
+            const noResults = document.getElementById('noResults');
+            
+            container.innerHTML = ''; // Limpa a tela
+            
+            if (lista.length === 0) {
+                noResults.style.display = 'block';
+                return;
+            }
+            
+            noResults.style.display = 'none';
+
+            lista.forEach(item => {
+                const link = document.createElement('a');
+                link.href = item.Url;
+                link.className = 'card-link';
+                link.target = '_blank';
+                
+                // Estrutura do card
+                link.innerHTML = `
+                    <span class="card-title">${item.Nome}</span>
+                    <span class="card-subtitle">Porta: ${item.Porta}</span>
+                `;
+                
+                container.appendChild(link);
+            });
+        }
+
+        // Sistema de busca (Filtro em tempo real)
+        document.getElementById('searchInput').addEventListener('input', function(e) {
+            const termoBusca = e.target.value.toLowerCase();
+            const listaFiltrada = todosLinks.filter(item => 
+                item.Nome.toLowerCase().includes(termoBusca)
+            );
+            renderizarCards(listaFiltrada);
+        });
     </script>
 </body>
 </html>
