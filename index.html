@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RM Hub - Instaladores WSUpdate</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f6f8; color: #333; margin: 0; padding: 40px; }
+        h1 { color: #0b5ed7; border-bottom: 2px solid #ccc; padding-bottom: 10px; }
+        .grid-botoes { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px; margin-top: 30px; }
+        .botao-download { background-color: #ffffff; color: #0b5ed7; padding: 20px; text-align: center; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border: 1px solid #e1e4e8; display: flex; align-items: center; justify-content: center; }
+        .botao-download:hover { background-color: #0b5ed7; color: #ffffff; transform: translateY(-2px); box-shadow: 0 6px 12px rgba(11, 94, 215, 0.2); }
+    </style>
+</head>
+<body>
+    <h1>RM Hub - Central de Atualizações</h1>
+    <p>Selecione o ambiente desejado para acessar o instalador WSUpdate correspondente:</p>
+    
+    <div id="container-botoes" class="grid-botoes"></div>
+
+    <script>
+        fetch('links_rm.json')
+            .then(response => response.json())
+            .then(dados => {
+                const container = document.getElementById('container-botoes');
+                dados.forEach(item => {
+                    const link = document.createElement('a');
+                    link.href = item.Url;
+                    link.className = 'botao-download';
+                    link.target = '_blank';
+                    link.textContent = item.Nome;
+                    link.title = `Host: ${item.HostCompleto} | Porta: ${item.Porta}`;
+                    container.appendChild(link);
+                });
+            })
+            .catch(error => {
+                console.error('Erro:', error);
+                document.getElementById('container-botoes').innerHTML = '<p style="color:red;">Erro ao carregar os links.</p>';
+            });
+    </script>
+</body>
+</html>
