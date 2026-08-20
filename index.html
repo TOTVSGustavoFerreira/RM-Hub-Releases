@@ -144,18 +144,20 @@
                     <div class="ambientes-container">
                 `;
                 
-                // Monta os botões de PRD e DEV dentro do Card
-                cliente.Ambientes.forEach(amb => {
-                    const btnClass = amb.Tipo === 'PRD' ? 'btn-prd' : 'btn-dev';
-                    const textoEnv = amb.Tipo === 'PRD' ? 'Produção' : 'Homologação';
-                    
-                    htmlCard += `
-                        <a href="${amb.Url}" class="btn-env ${btnClass}" target="_blank" title="Host: ${amb.HostOriginal}">
-                            <span class="env-name">${textoEnv}</span>
-                            <span class="env-port">Porta ${amb.Porta}</span>
-                        </a>
-                    `;
-                });
+			// Proteção: só tenta rodar o loop se 'Ambientes' realmente existir no item
+			if (cliente.Ambientes && Array.isArray(cliente.Ambientes)) {
+				cliente.Ambientes.forEach(amb => {
+					const btnClass = amb.Tipo === 'PRD' ? 'btn-prd' : 'btn-dev';
+					const textoEnv = amb.Tipo === 'PRD' ? 'Produção' : 'Homologação';
+					
+					htmlCard += `
+						<a href="${amb.Url}" class="btn-env ${btnClass}" target="_blank" title="Host: ${amb.HostOriginal}">
+							<span class="env-name">${textoEnv}</span>
+							<span class="env-port">Porta ${amb.Porta}</span>
+						</a>
+					`;
+				});
+			}
                 
                 htmlCard += `</div>`; // Fecha ambientes-container
                 card.innerHTML = htmlCard;
